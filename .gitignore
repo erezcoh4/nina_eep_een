@@ -1,6 +1,7 @@
 .DS_Store
 *infiles
 *.pdf
+*Results
 *.o
 *Cint.h
 *Cint.cxx
